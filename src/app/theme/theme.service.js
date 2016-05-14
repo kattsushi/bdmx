@@ -18,7 +18,7 @@
     return {
       blur: baConfig.theme.blur,
       mobile: isMobile,
-    }
+    };
   }
 
 })();
