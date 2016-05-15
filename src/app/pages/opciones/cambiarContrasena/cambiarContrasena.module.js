@@ -9,7 +9,7 @@
     $stateProvider
         .state('opciones.cambiarContrasena', {
           url: '/cambiarContrasena',
-          templateUrl: 'app/pages/opciones/cambiarContraseña/cambiarContrasena.html',
+          templateUrl: 'app/pages/opciones/cambiarContrasena/cambiarContrasena.html',
           title: 'Cambiar Contraseña',
           sidebarMeta: {
             order: 100,
